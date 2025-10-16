@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pypdf2
+gtts
+flask
+gunicorn
+flask
+gunicorn
