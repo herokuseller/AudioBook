@@ -1,4 +1,0 @@
-pyrogram
-tgcrypto
-pypdf2
-gtts
